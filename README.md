@@ -17,7 +17,7 @@
 - Traditional IT → **Cloud / DevOps / SRE**
 - Building **Azure infrastructure using Terraform**
 - Focused on **reliability, automation & system design**
-- Preparing for **MAANG-level interviews**
+- Creating well-oiled infra via code.
 
 ---
 
